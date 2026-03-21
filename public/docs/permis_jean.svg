@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+  <rect width="600" height="380" rx="16" fill="#1e3a5f"/>
+  <rect x="12" y="12" width="576" height="356" rx="12" fill="none" stroke="#4a9eff" stroke-width="1.5"/>
+  <text x="300" y="45" text-anchor="middle" fill="#4a9eff" font-size="13" font-weight="bold" font-family="serif">RÉPUBLIQUE DU CONGO — MINISTÈRE DES TRANSPORTS</text>
+  <text x="300" y="75" text-anchor="middle" fill="#fff" font-size="22" font-weight="bold" font-family="serif">PERMIS DE CONDUIRE</text>
+  <text x="300" y="95" text-anchor="middle" fill="#4a9eff" font-size="12" font-family="serif">DRIVING LICENSE</text>
+  <rect x="35" y="115" width="110" height="135" rx="6" fill="#ddd" stroke="#4a9eff"/>
+  <text x="90" y="190" text-anchor="middle" fill="#888" font-size="28">👤</text>
+  <text x="170" y="140" fill="#8ab4f8" font-size="10">1. Nom</text>
+  <text x="170" y="158" fill="#fff" font-size="15" font-weight="bold">MOUKALA</text>
+  <text x="170" y="180" fill="#8ab4f8" font-size="10">2. Prénom</text>
+  <text x="170" y="198" fill="#fff" font-size="15" font-weight="bold">Jean Baptiste</text>
+  <text x="170" y="220" fill="#8ab4f8" font-size="10">3. Date de naissance</text>
+  <text x="170" y="238" fill="#fff" font-size="13" font-family="monospace">15/03/1992</text>
+  <text x="400" y="140" fill="#8ab4f8" font-size="10">4a. Date de délivrance</text>
+  <text x="400" y="158" fill="#fff" font-size="13" font-family="monospace">20/06/2020</text>
+  <text x="400" y="180" fill="#8ab4f8" font-size="10">4b. Date d'expiration</text>
+  <text x="400" y="198" fill="#fff" font-size="13" font-family="monospace">20/06/2030</text>
+  <text x="400" y="220" fill="#8ab4f8" font-size="10">5. N° du permis</text>
+  <text x="400" y="238" fill="#FFD700" font-size="15" font-weight="bold" font-family="monospace">PC-BZV-2020-12456</text>
+  <rect x="35" y="270" width="530" height="80" rx="8" fill="rgba(74,158,255,0.1)" stroke="#4a9eff" stroke-width="0.5"/>
+  <text x="50" y="295" fill="#8ab4f8" font-size="11">Catégories / Categories</text>
+  <text x="50" y="325" fill="#fff" font-size="20" font-weight="bold" font-family="monospace">A   B</text>
+  <text x="200" y="295" fill="#8ab4f8" font-size="11">A: Motocycles / Motorcycles</text>
+  <text x="200" y="315" fill="#8ab4f8" font-size="11">B: Véhicules légers / Light vehicles</text>
+  <text x="450" y="340" fill="#4a9eff" font-size="9" text-anchor="end">Délivré à Brazzaville</text>
+</svg>

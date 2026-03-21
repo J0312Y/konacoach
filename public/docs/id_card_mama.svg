@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1a5632"/><stop offset="100%" stop-color="#0d3b1f"/></linearGradient></defs>
+  <rect width="600" height="380" rx="16" fill="url(#bg2)"/>
+  <rect x="15" y="15" width="570" height="350" rx="12" fill="none" stroke="#FFD700" stroke-width="2"/>
+  <text x="300" y="50" text-anchor="middle" fill="#FFD700" font-size="14" font-weight="bold" font-family="serif">RÉPUBLIQUE DU CONGO</text>
+  <text x="300" y="100" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="serif">CARTE NATIONALE D'IDENTITÉ</text>
+  <rect x="40" y="125" width="120" height="150" rx="6" fill="#ddd" stroke="#999"/>
+  <text x="100" y="210" text-anchor="middle" fill="#888" font-size="30">👩</text>
+  <text x="190" y="150" fill="#ccc" font-size="11">Nom</text>
+  <text x="190" y="170" fill="#fff" font-size="16" font-weight="bold">NGUDI</text>
+  <text x="190" y="200" fill="#ccc" font-size="11">Prénom</text>
+  <text x="190" y="220" fill="#fff" font-size="16" font-weight="bold">Marie-Claire</text>
+  <text x="190" y="250" fill="#ccc" font-size="11">Date de naissance</text>
+  <text x="190" y="270" fill="#fff" font-size="14" font-family="monospace">22/08/1978</text>
+  <text x="420" y="150" fill="#ccc" font-size="11">Sexe</text>
+  <text x="420" y="170" fill="#fff" font-size="14" font-weight="bold">F</text>
+  <text x="420" y="200" fill="#ccc" font-size="11">Nationalité</text>
+  <text x="420" y="220" fill="#fff" font-size="14">Congolaise</text>
+  <text x="40" y="320" fill="#ccc" font-size="11">N°</text>
+  <text x="40" y="342" fill="#FFD700" font-size="18" font-weight="bold" font-family="monospace">CNI-CG-2025-0123456</text>
+</svg>

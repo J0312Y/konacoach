@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" rx="8" fill="#fff"/>
+  <rect x="0" y="0" width="600" height="65" fill="#006633"/>
+  <text x="300" y="25" text-anchor="middle" fill="#fff" font-size="11" font-family="serif">MINISTÈRE DE LA SANTÉ ET DE LA POPULATION</text>
+  <text x="300" y="50" text-anchor="middle" fill="#FFD700" font-size="15" font-weight="bold" font-family="serif">CERTIFICAT D'HYGIÈNE SANITAIRE</text>
+  <text x="40" y="100" fill="#666" font-size="11">N° du certificat</text>
+  <text x="40" y="122" fill="#006633" font-size="18" font-weight="bold" font-family="monospace">CS-BZV-2025-00234</text>
+  <rect x="40" y="138" width="520" height="1" fill="#ddd"/>
+  <text x="40" y="168" fill="#666" font-size="11">Établissement</text>
+  <text x="40" y="190" fill="#000" font-size="15" font-weight="bold">Chez Mama Ngudi — Restaurant Traditionnel</text>
+  <text x="40" y="220" fill="#666" font-size="11">Résultat de l'inspection</text>
+  <rect x="40" y="235" width="520" height="70" rx="8" fill="#e8f5e9"/>
+  <text x="60" y="260" fill="#2e7d32" font-size="13">✓ Cuisine conforme aux normes d'hygiène</text>
+  <text x="60" y="280" fill="#2e7d32" font-size="13">✓ Stockage alimentaire réglementaire</text>
+  <text x="60" y="300" fill="#2e7d32" font-size="13">✓ Personnel formé aux bonnes pratiques</text>
+  <text x="40" y="335" fill="#666" font-size="11">Date d'inspection</text>
+  <text x="40" y="355" fill="#000" font-size="14" font-family="monospace">15/01/2026</text>
+  <text x="300" y="335" fill="#666" font-size="11">Validité</text>
+  <text x="300" y="355" fill="#000" font-size="14" font-family="monospace">15/01/2026 — 15/01/2027</text>
+  <text x="300" y="390" text-anchor="middle" fill="#999" font-size="9">Direction Départementale de la Santé — Brazzaville</text>
+</svg>

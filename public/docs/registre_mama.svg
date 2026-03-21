@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480">
+  <rect width="600" height="480" rx="8" fill="#fffdf5"/>
+  <rect x="0" y="0" width="600" height="80" fill="#8B0000"/>
+  <text x="300" y="28" text-anchor="middle" fill="#FFD700" font-size="12" font-family="serif">RÉPUBLIQUE DU CONGO</text>
+  <text x="300" y="48" text-anchor="middle" fill="#fff" font-size="10" font-family="serif">Ministère du Commerce et des Approvisionnements</text>
+  <text x="300" y="70" text-anchor="middle" fill="#FFD700" font-size="16" font-weight="bold" font-family="serif">REGISTRE DE COMMERCE</text>
+  <text x="40" y="115" fill="#333" font-size="11">N° d'immatriculation / Registration No.</text>
+  <text x="40" y="138" fill="#000" font-size="18" font-weight="bold" font-family="monospace">RC-BZV-2025-004567</text>
+  <rect x="40" y="155" width="520" height="1" fill="#ddd"/>
+  <text x="40" y="185" fill="#666" font-size="11">Dénomination sociale / Business Name</text>
+  <text x="40" y="208" fill="#000" font-size="16" font-weight="bold">CHEZ MAMA NGUDI — Restaurant Traditionnel</text>
+  <text x="40" y="240" fill="#666" font-size="11">Gérant / Manager</text>
+  <text x="40" y="260" fill="#000" font-size="14" font-weight="bold">Mme NGUDI Marie-Claire</text>
+  <text x="350" y="240" fill="#666" font-size="11">NIU</text>
+  <text x="350" y="260" fill="#000" font-size="14" font-family="monospace">NIU-2025-00789</text>
+  <text x="40" y="295" fill="#666" font-size="11">Adresse / Address</text>
+  <text x="40" y="315" fill="#000" font-size="14">123 Avenue de la Paix, Bacongo, Brazzaville</text>
+  <text x="40" y="345" fill="#666" font-size="11">Activité principale / Main Activity</text>
+  <text x="40" y="365" fill="#000" font-size="14">Restauration traditionnelle et vente de plats cuisinés</text>
+  <text x="40" y="395" fill="#666" font-size="11">Date d'immatriculation</text>
+  <text x="40" y="415" fill="#000" font-size="14" font-family="monospace">10/11/2025</text>
+  <rect x="350" y="380" width="200" height="60" rx="8" fill="#e8f5e9" stroke="#4caf50"/>
+  <text x="450" y="410" text-anchor="middle" fill="#2e7d32" font-size="14" font-weight="bold">✓ EN RÈGLE</text>
+  <text x="450" y="428" text-anchor="middle" fill="#4caf50" font-size="10">Valide indéfiniment</text>
+  <rect x="40" y="440" width="520" height="1" fill="#ddd"/>
+  <text x="300" y="465" text-anchor="middle" fill="#999" font-size="9">Greffe du Tribunal de Commerce de Brazzaville — Direction Générale du Commerce</text>
+</svg>
